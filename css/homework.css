@@ -33,7 +33,7 @@ button {
 }
 
 .logo {
-  background-image: url(/assets/assets/background.jpg);
+  background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 150px;
